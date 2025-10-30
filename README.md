@@ -1,11 +1,11 @@
-# Hi there, I'm Mohamed Elsayed ☁️ 
+# Hi there, I'm Mohamed Elsayed 👋 
 
-[![Website](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohamedelsayed-aws)
+[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Elsayed-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohamedelsayed-aws)
 [![Website](https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge)](#)
 
 ---
 
-## I'm a Cloud Engineer ☁️ | Cloud Architect | Network Engineer 
+## I'm a Cloud Engineer ☁️ | Cloud Architect | Network Engineer
 
 - 🔭 Currently working on building scalable cloud infrastructures using AWS.
 - 🌱 Always learning new cloud services and automation tools.
@@ -18,10 +18,16 @@
 
 ---
 
-### Connect with me:
+### 🎓 Certifications & Courses
 
-[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Elsayed-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohamedelsayed-aws)
-[![Email](https://img.shields.io/badge/-Email%20Me-gray?logo=gmail&style=for-the-badge)](#)
+- 🟠 **AWS Certified Solutions Architect – Associate (AWS ARCH)**
+- 🟠 **AWS Certified SysOps Administrator – Associate (AWS SYSOPS)**
+- 🔵 **Microsoft Azure Administrator (AZ-104)**
+- 🔵 **Microsoft Azure Solutions Architect Expert (AZ-305)**
+- 🐳 **Docker for DevOps Engineers**
+- 🖥️ **Microsoft Certified Solutions Associate (MCSA)**
+- 🐧 **Linux Essentials / Administration**
+- 🌐 **Cisco Certified Network Associate (CCNA)**
 
 ---
 
