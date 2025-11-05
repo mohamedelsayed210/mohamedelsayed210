@@ -1,4 +1,4 @@
-# Hi there, I'mhfhehgdhghfgede ☁
+# Hi there, I'm Mohamed Elsayed ☁
 
 [![LinkedIn](https://img.shields.io/badge/-Mohamed%20Elsayed-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohamedelsayed-aws)
 [![Website](https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge)](#)
@@ -10,24 +10,24 @@
 - 🔭 Currently working on building scalable cloud infrastructures using AWS.
 - 🌱 Always learning new cloud services and automation tools.
 - 👯 Looking to collaborate on cloud migration and DevOps projects.
-- 🥅 *2025 Goals:*  
+- 🥅 2025 Goals:  
   - Achieve AWS Certified Solutions Architect – Professional.  
   - Contribute to open-source cloud automation projects.  
   - Improve skills in Terraform and Kubernetes.  
-- ⚡ *Fun fact:* I enjoy simplifying complex cloud solutions into clear, practical architectures.
+- ⚡ Fun fact: I enjoy simplifying complex cloud solutions into clear, practical architectures.
 
 ---
 
 ### 🎓 Certifications & Courses
 
-- 🟠 *AWS Certified Solutions Architect – Associate (AWS ARCH)*hdgfhdvghffffffffffffffffffffff
-- 🟠 *AWS Certified SysOps Administrator – Associate (AWS SYSOPS)*
-- 🔵 *Microsoft Azure Administrator (AZ-104)*
-- 🔵 *Microsoft Azure Solutions Architect Expert (AZ-305)*
-- 🐳 *Docker for DevOps Engineers*
-- 🖥 *Microsoft Certified Solutions Associate (MCSA)*
-- 🐧 *Linux Essentials / Administration*sddddddddddddddddddd
-- 🌐 *Cisco Certified Network Associate (CCNA)*
+- 🟠 AWS Certified Solutions Architect – Associate (AWS ARCH)
+- 🟠 AWS Certified SysOps Administrator – Associate (AWS SYSOPS)
+- 🔵 Microsoft Azure Administrator (AZ-104)
+- 🔵 Microsoft Azure Solutions Architect Expert (AZ-305)
+- 🐳 Docker for DevOps Engineers
+- 🖥 Microsoft Certified Solutions Associate (MCSA)
+- 🐧 Linux Essentials / Administration
+- 🌐 Cisco Certified Network Associate (CCNA)
 
 ---
 
